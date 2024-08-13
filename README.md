@@ -22,5 +22,3 @@ Assembler, HTML, JS, CSS, PHP, SQL, LUA,
 
 (yes, from my point of view, HTML — is a Prog Lang)
 
-I want to learn 92%:
-All Assembler
